@@ -1,8 +1,8 @@
 # Calculating simples interest earned on investment
-P = 1000
-R = 0.05
-T = 3
+principal = 1000
+rate = 0.05
+time = 3
 
-interest = P * R * T
+Interest = principal * rate * time
 
-print(f"Simple interest is: {interest}")
+print(f"Simple interest is: {Interest}")
